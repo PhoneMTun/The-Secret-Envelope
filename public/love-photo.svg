@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-label="Love puzzle image">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff9fbf" />
+      <stop offset="55%" stop-color="#ff7aa6" />
+      <stop offset="100%" stop-color="#ffc9dc" />
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1000" fill="url(#bg)"/>
+  <g fill="#ffffff" opacity="0.9">
+    <circle cx="230" cy="230" r="10"/>
+    <circle cx="770" cy="180" r="8"/>
+    <circle cx="820" cy="740" r="12"/>
+    <circle cx="180" cy="720" r="9"/>
+    <circle cx="500" cy="850" r="7"/>
+  </g>
+  <g fill="#fff0f5" opacity="0.85">
+    <path d="M500 700c-145-88-240-180-240-288 0-82 63-146 143-146 52 0 86 25 97 53 11-28 45-53 97-53 80 0 143 64 143 146 0 108-95 200-240 288z"/>
+  </g>
+  <g fill="#ffffff">
+    <text x="500" y="445" text-anchor="middle" font-size="108" font-family="Trebuchet MS, Verdana, sans-serif">Happy</text>
+    <text x="500" y="560" text-anchor="middle" font-size="108" font-family="Trebuchet MS, Verdana, sans-serif">Valentine</text>
+  </g>
+</svg>
